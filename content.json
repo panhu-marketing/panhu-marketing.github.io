@@ -59,7 +59,7 @@
     "_comment": "Hero 下方的横向作品预览。点击会跳转并打开对应的项目模块。",
     "ariaLabel": "Selected work preview",
     "label": "Selected work",
-    "category": "SEO / SOCIAL / E-COMMERCE",
+    "category": "SEO/GEO / SOCIAL / E-COMMERCE",
     "items": [
       {
         "target": "projects",
@@ -67,7 +67,7 @@
         "module": "seo",
         "image": "assets/ertha-01-home-page.webp",
         "alt": "Ertha Home responsive storefront supporting product, collection and content landing pages",
-        "title": "SEO & Organic Growth"
+        "title": "SEO, GEO & Organic Growth"
       },
       {
         "target": "projects",
@@ -83,7 +83,7 @@
         "module": "website",
         "image": "assets/ertha-website-cms-showcase-v02.png",
         "alt": "Ertha Home Shopify website and e-commerce storefront",
-        "title": "Website & E-commerce"
+        "title": "Shopify & SEO Landing Pages"
       }
     ]
   },
