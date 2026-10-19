@@ -8,7 +8,7 @@
   "site": {
     "language": "en",
     "title": "Pan Hu | Digital Marketing Portfolio",
-    "description": "Melbourne-based digital marketer with hands-on experience in e-commerce, SEO/GEO, social media growth and analytics.",
+    "description": "Melbourne-based digital marketer with hands-on experience across SEO, social media, e-commerce and analytics.",
     "canonical": "https://panhu-marketing.github.io/",
     "ogImage": "assets/ertha-01-home-page.webp",
     "skipLink": "Skip to content",
@@ -39,16 +39,16 @@
   "hero": {
     "_comment": "首屏求职定位。name、roleLocation 和 descriptionLines 分别控制姓名、职位地点和两行简介；avatar 控制右侧人物贴图。",
     "sectionLabel": "Home",
-    "ariaTitle": "Hi, I'm Pan. E-commerce SEO/GEO Marketer · Melbourne",
+    "ariaTitle": "Hi, I'm Pan. Digital Marketer · Melbourne",
     "name": "Hi, I'm Pan.",
-    "roleLocation": "E-commerce SEO/GEO Marketer · Melbourne",
+    "roleLocation": "Digital Marketer · Melbourne",
     "avatar": {
       "path": "assets/hero-pan-avatar-v2-transparent.png",
       "alt": "Cartoon avatar of Pan holding a coffee and laptop"
     },
     "descriptionLines": [
-      "I work across e-commerce, SEO/GEO and social media growth,",
-      "using research, analytics and AI workflows to improve organic visibility."
+      "I work across SEO, social media and e-commerce,",
+      "helping brands improve visibility, engagement and digital growth."
     ],
     "actions": [
       { "label": "View selected work", "target": "projects", "style": "primary" },
@@ -59,7 +59,7 @@
     "_comment": "Hero 下方的横向作品预览。点击会跳转并打开对应的项目模块。",
     "ariaLabel": "Selected work preview",
     "label": "Selected work",
-    "category": "SEO/GEO / SOCIAL / E-COMMERCE",
+    "category": "SEO / SOCIAL / E-COMMERCE",
     "items": [
       {
         "target": "projects",
@@ -67,7 +67,7 @@
         "module": "seo",
         "image": "assets/ertha-seo-geo-workflow-v2.png",
         "alt": "Ertha Home SEO and GEO workflow",
-        "title": "SEO, GEO & Organic Growth"
+        "title": "SEO & Organic Growth"
       },
       {
         "target": "projects",
@@ -83,7 +83,7 @@
         "module": "website",
         "image": "assets/ertha-website-cms-showcase-v02.png",
         "alt": "Ertha Home Shopify website and e-commerce storefront",
-        "title": "Shopify & SEO Landing Pages"
+        "title": "Website & E-commerce"
       }
     ]
   },
@@ -92,10 +92,10 @@
     "sectionLabel": "About",
     "title": "About",
     "paragraphs": [
-      "Digital marketer with hands-on experience in e-commerce, SEO/GEO and social media growth.",
-      "Built and managed an international Shopify store using technical SEO, keyword research, on-page optimisation and GSC/GA4 analysis.",
-      "Skilled in using AI tools, including Claude and Codex, to support SEO research, optimise content and streamline workflows.",
-      "Focused on measurable organic growth through practical, data-led execution."
+      "Digital marketer with hands-on experience across SEO, social media and e-commerce.",
+      "Turning research, content and data into practical marketing actions.",
+      "Focused on search visibility, audience growth and digital performance.",
+      "Bringing a practical, data-informed approach to every project."
     ],
     "cta": { "label": "Contact", "target": "contact" }
   },
@@ -107,23 +107,23 @@
     "items": [
       {
         "number": "01",
-        "title": "SEO, GEO & Organic Growth",
-        "description": "Technical SEO, keyword research, on-page optimisation, schema markup and GEO/AEO fundamentals."
+        "title": "SEO & Organic Growth",
+        "description": "Improving search visibility through technical SEO, keyword research and content optimisation."
       },
       {
         "number": "02",
         "title": "Social Media & Content",
-        "description": "Content strategy and short-form production that support reach, engagement and audience growth."
+        "description": "Creating content that supports reach, engagement and audience growth."
       },
       {
         "number": "03",
         "title": "Website & E-commerce",
-        "description": "Shopify, CMS, catalogue management, website building and responsive optimisation."
+        "description": "Building and managing websites that support brand growth and e-commerce performance."
       },
       {
         "number": "04",
-        "title": "Analytics & AI Workflows",
-        "description": "GA4, Google Search Console, Semrush, Screaming Frog, Python and AI-assisted SEO workflows."
+        "title": "Analytics & Optimisation",
+        "description": "Using performance data to measure results and guide optimisation."
       }
     ]
   },
@@ -145,34 +145,34 @@
           "id": "seo",
           "label": "01 SEO & Organic Growth",
           "image": {
-          "path": "assets/ertha-seo-geo-workflow-v2.png",
-          "alt": "Ertha Home SEO and GEO workflow covering technical audit, keyword research, on-page optimisation and search monitoring",
+            "path": "assets/ertha-seo-geo-workflow-v2.png",
+            "alt": "Ertha Home SEO and GEO workflow covering technical audit, keyword research, on-page optimisation and search monitoring",
             "caption": "SEO / GEO & Content"
           },
           "content": {
-            "overview": "Led technical and on-page SEO for Ertha Home, using AI-assisted research and Google Search Console to prioritise fixes, improve visibility and guide ongoing optimisation.",
+            "overview": "Built and implemented an end-to-end SEO strategy for Ertha Home, covering technical SEO, competitor and keyword research, on-page optimisation, and ongoing performance monitoring.",
             "metrics": [
-              { "value": "+133.4%", "label": "Impressions Growth (28 Days)" },
-              { "value": "+41.5%", "label": "Organic Click Growth (28 Days)" },
-              { "value": "14.18 → 8.66", "label": "Average Position" },
-              { "value": "174", "label": "SEO Landing Pages" }
+              { "value": "123", "label": "Priority Pages Indexed" },
+              { "value": "50+", "label": "Competitors Analysed" },
+              { "value": "+477%", "label": "Search Impressions" },
+              { "value": "+15%", "label": "Organic Clicks" }
             ],
             "contributions": [
               {
-                "title": "01 - Technical SEO",
-                "body": "Used **AI-assisted research** and **Google Search Console** to prioritise technical and on-page SEO fixes, increasing search impressions by **133.4%**, organic clicks by **41.5%**, and improving average position from **14.18 to 8.66** in **28 days**."
+                "title": "01 — Technical SEO",
+                "body": "Audited crawlability, indexing, site structure, redirects and page performance using **Google Search Console** and SEO crawling tools, with **123 priority pages** indexed."
               },
               {
-                "title": "02 - Homepage & Product Visibility",
-                "body": "Optimised homepage and product visibility through metadata, content, **Product Schema** and **Breadcrumb Schema**, generating **482 homepage impressions**, an **8.3% CTR**, and **283 product rich-result impressions** in **28 days**."
+                "title": "02 — Competitive & Keyword Research",
+                "body": "Analysed **50+ competitors** and search demand using **Google Keyword Planner** and SEO research tools, with the site appearing across **93 Google search queries**."
               },
               {
-                "title": "03 - On-page SEO",
-                "body": "Built and managed **174 SEO landing pages** across product, collection and content pages, aligning pages with search intent and reducing keyword cannibalisation."
+                "title": "03 — On-page SEO",
+                "body": "Optimised titles, headings, product and collection content, image alt text and internal linking across **100+ SKUs**, contributing to a **477% increase** in search impressions."
               },
               {
-                "title": "04 - Monitoring & Iteration",
-                "body": "Monitored performance through **Google Search Console** and used search data to guide ongoing optimisation and content decisions."
+                "title": "04 — Monitoring & Iteration",
+                "body": "Monitored SEO performance through **Google Search Console**, using search data to guide ongoing optimisation, with organic clicks up **15%** compared with the previous **28-day period**."
               }
             ]
           }
@@ -181,69 +181,104 @@
           "id": "instagram",
           "label": "02 Social Media & Content",
           "image": {
-          "path": "assets/ertha-instagram-content-overview-v04.png",
-          "alt": "Instagram content overview and performance analytics for Ertha Home",
-          "caption": "Social Media & Content"
+            "path": "assets/ertha-instagram-content-overview-v04.png",
+            "alt": "Instagram content overview and performance analytics for Ertha Home",
+            "caption": "Social Media & Content"
           },
           "content": {
-            "overview": "Built Ertha Home’s Instagram presence from the ground up, using an organic content strategy to grow the audience, improve product discovery and support e-commerce performance.",
+            "overview": "Built the brand’s Instagram presence from the ground up, developing an organic content strategy focused on visual storytelling, audience growth and product discovery.",
             "metrics": [
-              { "value": "10K+", "label": "Total Followers" },
-              { "value": "6.6K", "label": "Followers Added in One Month" },
-              { "value": "784K+", "label": "Organic Views in One Month" },
+              { "value": "6.6K", "label": "Followers in First Month" },
+              { "value": "784K+", "label": "Organic Views" },
+              { "value": "+570%", "label": "Gross Sales" },
               { "value": "+400%", "label": "Orders" }
             ],
             "contributions": [
               {
-                "title": "01 - Content Strategy",
-                "body": "Developed an organic content strategy around visual storytelling, product discovery and audience growth, using performance insights to refine content formats and topics."
+                "title": "01 — Content Strategy",
+                "body": "Developed a consistent content strategy around product storytelling, collection themes and audience response, using **performance insights** to refine formats and topics."
               },
               {
-                "title": "02 - Organic Audience Growth",
-                "body": "Grew the account to **10K+ total followers**, adding **6.6K followers** and generating **784K+ views in one month** through organic content."
+                "title": "02 — Organic Audience Growth",
+                "body": "Grew the account to **6.6K followers in the first month** and generated **784K organic views**, while gross sales increased by **570%**, orders by **400%**, and the conversion rate by **102%** vs. the previous **30-day** period."
               },
               {
-                "title": "03 - E-commerce Impact",
-                "body": "The organic social strategy supported a **400% increase in orders** and a **102% increase in conversion rate**."
+                "title": "03 — Creative Testing",
+                "body": "Produced multiple high-performing Reels through ongoing creative testing, including content reaching **350K+ and 238K+ views**, contributing to **69.2K content interactions** overall."
               },
               {
-                "title": "04 - Performance-led Optimisation",
-                "body": "Used audience and content-performance insights to guide ongoing optimisation of topics, formats and product storytelling."
+                "title": "04 — Traffic & Optimisation",
+                "body": "Used **Instagram Insights** and **Meta Business Suite** to analyse audience and content performance, generating **14.5K profile visits** and guiding ongoing content optimisation."
               }
             ]
           }
         },
         {
           "id": "website",
-          "label": "03 Website & SEO Landing Pages",
+          "label": "03 Website & E-commerce",
           "image": {
             "path": "assets/ertha-website-cms-showcase-v02.png",
             "alt": "Ertha Home Shopify storefront shown across laptop, tablet and mobile devices"
           },
           "content": {
-            "overview": "Built and managed Ertha Home’s Shopify store, using AI workflows to optimise and maintain SEO landing pages across product, collection and content pages.",
+            "overview": "Designed and built the Ertha Home Shopify storefront from scratch, covering website design, CMS setup, catalogue structure, responsive optimisation, and pre-launch QA.",
             "metrics": [
-              { "value": "174", "label": "SEO Landing Pages" },
-              { "value": "Shopify", "label": "Store Platform" },
-              { "value": "3", "label": "Landing Page Types" },
-              { "value": "AI", "label": "Optimisation Workflow" }
+              { "value": "100+", "label": "SKUs Launched" },
+              { "value": "30+", "label": "Storefront Pages Built" },
+              { "value": "30+", "label": "Markets Supported" },
+              { "value": "0 → 1", "label": "Shopify Store Build" }
             ],
             "contributions": [
               {
-                "title": "01 - Shopify Store Build",
-                "body": "Built and managed Ertha Home’s **Shopify store**, using **AI workflows** to support ongoing optimisation and maintenance."
+                "title": "01 — Website & Visual Design",
+                "body": "Used **Canva** and **AI-assisted design workflows** to develop the website's visual direction, page layouts, banners, and product assets, ensuring a consistent visual identity across the storefront."
               },
               {
-                "title": "02 - SEO Landing Pages",
-                "body": "Optimised and maintained **174 SEO landing pages** across product, collection and content pages."
+                "title": "02 — Shopify CMS & Page Build",
+                "body": "Built and managed **30+ storefront pages** through **Shopify CMS**, including homepage, collection, FAQ, contact, brand content and policy pages."
               },
               {
-                "title": "03 - Search-intent Alignment",
-                "body": "Aligned landing pages with search intent to strengthen organic visibility across product, collection and content journeys."
+                "title": "03 — Catalogue & Site Structure",
+                "body": "Structured and managed **100+ SKUs** across product types and collections, improving navigation, product discovery and overall browsing experience."
               },
               {
-                "title": "04 - Keyword Cannibalisation Reduction",
-                "body": "Maintained page structure and content coverage to reduce keyword cannibalisation across the site."
+                "title": "04 — Responsive QA & Launch",
+                "body": "Tested layouts, navigation, product listings and purchase flows across **desktop and mobile**, while preparing the store to support customers across **30+ markets**."
+              }
+            ]
+          }
+        },
+        {
+          "id": "market-research",
+          "label": "04 Market Research",
+          "image": {
+            "path": "assets/ertha-market-insights-research.png",
+            "alt": "Ertha Home US ceramics market research summary covering search demand, consumer reviews, competitor benchmarking and reporting"
+          },
+          "content": {
+            "overview": "Conducted data-led market research to understand market demand, consumer needs and the competitive landscape of the US ceramics market.",
+            "metrics": [
+              { "value": "200+", "label": "Search Terms Analysed" },
+              { "value": "500+", "label": "Consumer Reviews Analysed" },
+              { "value": "50+", "label": "Competitors Benchmarked" },
+              { "value": "0 → 1", "label": "Market Research Report" }
+            ],
+            "contributions": [
+              {
+                "title": "01 — Search Demand Analysis",
+                "body": "Used **Google Keyword Planner** and **Google Trends** to analyse **200+ search terms**, identifying category demand, search trends and market opportunities in the US."
+              },
+              {
+                "title": "02 — Consumer Insights",
+                "body": "Used **Python** and **AI-assisted workflows** to analyse **500+ consumer reviews** from Reddit, Etsy and other platforms, identifying recurring needs, preferences and pain points."
+              },
+              {
+                "title": "03 — Competitor Analysis",
+                "body": "Used **Semrush** to benchmark **50+ competitors** across website traffic, search visibility and market positioning."
+              },
+              {
+                "title": "04 — Data Visualisation & Reporting",
+                "body": "Used **AI-assisted workflows** and **Excel** to clean, structure and visualise research data, producing an independent market research report with key findings and recommendations."
               }
             ]
           }
@@ -275,16 +310,16 @@
             "overview": "Conducted consumer and competitor research to understand category perceptions, identify market opportunities, and define the strategic direction for the rebrand.",
             "contributions": [
               {
-                "title": "01 - Consumer & Keyword Research",
-                "body": "Used **Python** to analyse **572 consumer reviews**, identifying customer preferences and informing the rebranding direction."
+                "title": "01 — Consumer & Keyword Research",
+                "body": "Used **Python-based** word-frequency analysis and visualisation to analyse **572 e-commerce beverage reviews**, identifying key consumer concerns, preferences, and category language."
               },
               {
-                "title": "02 - Competitor Benchmarking",
-                "body": "Benchmarked competitors to identify customer preferences and opportunities for differentiation in positioning, visual identity and digital presence."
+                "title": "02 — Competitor Research",
+                "body": "Used **Semrush and competitor website analysis** to evaluate **30+ competitors**, comparing positioning, messaging, visual identity, and digital presence to identify opportunities for differentiation."
               },
               {
-                "title": "03 - Brand Positioning",
-                "body": "Refined Gen Z targeting and brand positioning using consumer and competitor insights, with a projected **35% improvement in targeting effectiveness**."
+                "title": "03 — Brand Positioning",
+                "body": "Refined Gen Z targeting and brand positioning using consumer and competitor insights, with an estimated **35% improvement in targeting effectiveness**."
               }
             ]
           }
@@ -300,15 +335,15 @@
             "overview": "Led the visual and packaging direction for the rebrand, translating brand positioning into clear creative decisions for younger consumers and different usage scenarios.",
             "contributions": [
               {
-                "title": "01 - Brand Identity Direction",
+                "title": "01 — Brand Identity Direction",
                 "body": "Defined the brand’s **core visual direction and identity principles**, establishing how the brand should look and feel across packaging, content, and offline touchpoints."
               },
               {
-                "title": "02 - IP Concept & Art Direction",
+                "title": "02 — IP Concept & Art Direction",
                 "body": "Defined the **IP concept and creative direction**, combining traditional Chinese opera-inspired elements with bayberry cues to shape a distinctive character for Gen Z audiences."
               },
               {
-                "title": "03 - Packaging Design",
+                "title": "03 — Packaging Design",
                 "body": "Defined a **scenario-based packaging strategy** for outdoor, gifting, and office/study use, selecting formats and materials based on different consumer needs."
               }
             ]
@@ -325,16 +360,16 @@
             "overview": "Developed a pop-up activation strategy to bring the rebranded identity into physical experiences and strengthen engagement with younger consumers.",
             "contributions": [
               {
-                "title": "01 - Pop-up Experience",
-                "body": "Designed pop-up events and digital marketing campaigns to drive engagement, with a projected **15-20% improvement in conversion rates**."
+                "title": "01 — Pop-up Experience",
+                "body": "Planned a **two-channel store + pop-up activation model**, combining offline experiences with social media promotion, with a projected **15–20% conversion uplift**."
               },
               {
-                "title": "02 - IP Merchandise",
-                "body": "Designed merchandise concepts to extend the rebranded identity beyond beverages and into lifestyle touchpoints."
+                "title": "02 — IP Merchandise",
+                "body": "Defined **10+ merchandise categories**, including apparel, accessories, collectibles, and lifestyle products, extending the brand beyond beverages and into lifestyle touchpoints."
               },
               {
-                "title": "03 - Online-to-Offline Engagement",
-                "body": "Designed an online-to-offline engagement model using QR codes, points-based rewards, check-ins and social sharing."
+                "title": "03 — Online-to-Offline Engagement",
+                "body": "Defined an **online-to-offline engagement model** using QR codes, points-based rewards, check-ins, and social sharing, achieving an approximately **25% visitor-to-member conversion rate**."
               }
             ]
           }
@@ -346,8 +381,8 @@
     "_comment": "求职向 Contact，保留邮箱和电话，新增 LinkedIn 与 Download CV。",
     "sectionLabel": "Contact",
     "eyebrow": "Contact",
-    "title": "Open to e-commerce SEO/GEO opportunities.",
-    "subtitle": "Focused on **technical SEO, GEO, social media and e-commerce.**",
+    "title": "Open to digital marketing opportunities.",
+    "subtitle": "Focused on **SEO, social media and e-commerce.**",
     "footerNote": "Designed by Pan · 2026 | No user interactions tracked | Privacy-first",
     "links": [
       { "label": "Email", "linkKey": "email", "style": "primary", "icon": "mail" },
