@@ -150,29 +150,29 @@
             "caption": "SEO / GEO & Content"
           },
           "content": {
-            "overview": "Built and implemented an end-to-end SEO strategy for Ertha Home, covering technical SEO, competitor and keyword research, on-page optimisation, and ongoing performance monitoring.",
+            "overview": "Led technical and on-page SEO for Ertha Home, using AI-assisted research and Google Search Console to prioritise fixes, improve visibility and guide ongoing optimisation.",
             "metrics": [
-              { "value": "123", "label": "Priority Pages Indexed" },
-              { "value": "50+", "label": "Competitors Analysed" },
-              { "value": "+477%", "label": "Search Impressions" },
-              { "value": "+15%", "label": "Organic Clicks" }
+              { "value": "+133.4%", "label": "Impressions Growth (28 Days)" },
+              { "value": "+41.5%", "label": "Organic Click Growth (28 Days)" },
+              { "value": "14.18 → 8.66", "label": "Average Position" },
+              { "value": "174", "label": "SEO Landing Pages" }
             ],
             "contributions": [
               {
                 "title": "01 — Technical SEO",
-                "body": "Audited crawlability, indexing, site structure, redirects and page performance using **Google Search Console** and SEO crawling tools, with **123 priority pages** indexed."
+                "body": "Used **AI-assisted research** and **Google Search Console** to prioritise technical and on-page SEO fixes, increasing search impressions by **133.4%**, organic clicks by **41.5%**, and improving average position from **14.18 to 8.66** in **28 days**."
               },
               {
-                "title": "02 — Competitive & Keyword Research",
-                "body": "Analysed **50+ competitors** and search demand using **Google Keyword Planner** and SEO research tools, with the site appearing across **93 Google search queries**."
+                "title": "02 — Homepage & Product Visibility",
+                "body": "Optimised homepage and product visibility through metadata, content, **Product Schema** and **Breadcrumb Schema**, generating **482 homepage impressions**, an **8.3% CTR**, and **283 product rich-result impressions** in **28 days**."
               },
               {
                 "title": "03 — On-page SEO",
-                "body": "Optimised titles, headings, product and collection content, image alt text and internal linking across **100+ SKUs**, contributing to a **477% increase** in search impressions."
+                "body": "Built and managed **174 SEO landing pages** across product, collection and content pages, aligning pages with search intent and reducing keyword cannibalisation."
               },
               {
                 "title": "04 — Monitoring & Iteration",
-                "body": "Monitored SEO performance through **Google Search Console**, using search data to guide ongoing optimisation, with organic clicks up **15%** compared with the previous **28-day period**."
+                "body": "Monitored performance through **Google Search Console** and used search data to guide ongoing optimisation and content decisions."
               }
             ]
           }
