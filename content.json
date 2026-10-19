@@ -221,29 +221,29 @@
             "alt": "Ertha Home Shopify storefront shown across laptop, tablet and mobile devices"
           },
           "content": {
-            "overview": "Designed and built the Ertha Home Shopify storefront from scratch, covering website design, CMS setup, catalogue structure, responsive optimisation, and pre-launch QA.",
+            "overview": "Built and managed Ertha Home's Shopify store, using AI workflows to optimise and maintain 174 SEO landing pages across product, collection and content pages.",
             "metrics": [
-              { "value": "100+", "label": "SKUs Launched" },
-              { "value": "30+", "label": "Storefront Pages Built" },
-              { "value": "30+", "label": "Markets Supported" },
-              { "value": "0 → 1", "label": "Shopify Store Build" }
+              { "value": "174", "label": "SEO Landing Pages" },
+              { "value": "482", "label": "Homepage Impressions" },
+              { "value": "8.3%", "label": "Homepage CTR" },
+              { "value": "283", "label": "Product Rich Results" }
             ],
             "contributions": [
               {
-                "title": "01 — Website & Visual Design",
-                "body": "Used **Canva** and **AI-assisted design workflows** to develop the website's visual direction, page layouts, banners, and product assets, ensuring a consistent visual identity across the storefront."
+                "title": "01 - Shopify Store Management",
+                "body": "Built and managed the Shopify storefront, maintaining page structure, responsive optimisation and a consistent e-commerce experience."
               },
               {
-                "title": "02 — Shopify CMS & Page Build",
-                "body": "Built and managed **30+ storefront pages** through **Shopify CMS**, including homepage, collection, FAQ, contact, brand content and policy pages."
+                "title": "02 - SEO Landing Page System",
+                "body": "Used AI workflows to optimise and maintain **174 SEO landing pages** across product, collection and content pages, aligning pages with search intent and reducing keyword cannibalisation."
               },
               {
-                "title": "03 — Catalogue & Site Structure",
-                "body": "Structured and managed **100+ SKUs** across product types and collections, improving navigation, product discovery and overall browsing experience."
+                "title": "03 - On-Page Optimisation & Schema",
+                "body": "Improved homepage and product visibility through metadata, page content, **Product Schema** and **Breadcrumb Schema**."
               },
               {
-                "title": "04 — Responsive QA & Launch",
-                "body": "Tested layouts, navigation, product listings and purchase flows across **desktop and mobile**, while preparing the store to support customers across **30+ markets**."
+                "title": "04 - Search Visibility",
+                "body": "In **28 days**, the homepage generated **482 impressions** and **8.3% CTR**, while product rich results generated **283 impressions**."
               }
             ]
           }
