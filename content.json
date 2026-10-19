@@ -215,35 +215,35 @@
         },
         {
           "id": "website",
-          "label": "03 Website & E-commerce",
+          "label": "03 Website & SEO Landing Pages",
           "image": {
             "path": "assets/ertha-website-cms-showcase-v02.png",
             "alt": "Ertha Home Shopify storefront shown across laptop, tablet and mobile devices"
           },
           "content": {
-            "overview": "Designed and built the Ertha Home Shopify storefront from scratch, covering website design, CMS setup, catalogue structure, responsive optimisation, and pre-launch QA.",
+            "overview": "Built and managed Ertha Home’s Shopify store, using AI workflows to optimise and maintain SEO landing pages across product, collection and content pages.",
             "metrics": [
-              { "value": "100+", "label": "SKUs Launched" },
-              { "value": "30+", "label": "Storefront Pages Built" },
-              { "value": "30+", "label": "Markets Supported" },
-              { "value": "0 → 1", "label": "Shopify Store Build" }
+              { "value": "174", "label": "SEO Landing Pages" },
+              { "value": "Shopify", "label": "Store Platform" },
+              { "value": "3", "label": "Landing Page Types" },
+              { "value": "AI", "label": "Optimisation Workflow" }
             ],
             "contributions": [
               {
-                "title": "01 — Website & Visual Design",
-                "body": "Used **Canva** and **AI-assisted design workflows** to develop the website's visual direction, page layouts, banners, and product assets, ensuring a consistent visual identity across the storefront."
+                "title": "01 — Shopify Store Build",
+                "body": "Built and managed Ertha Home’s **Shopify store**, using **AI workflows** to support ongoing optimisation and maintenance."
               },
               {
-                "title": "02 — Shopify CMS & Page Build",
-                "body": "Built and managed **30+ storefront pages** through **Shopify CMS**, including homepage, collection, FAQ, contact, brand content and policy pages."
+                "title": "02 — SEO Landing Pages",
+                "body": "Optimised and maintained **174 SEO landing pages** across product, collection and content pages."
               },
               {
-                "title": "03 — Catalogue & Site Structure",
-                "body": "Structured and managed **100+ SKUs** across product types and collections, improving navigation, product discovery and overall browsing experience."
+                "title": "03 — Search-intent Alignment",
+                "body": "Aligned landing pages with search intent to strengthen organic visibility across product, collection and content journeys."
               },
               {
-                "title": "04 — Responsive QA & Launch",
-                "body": "Tested layouts, navigation, product listings and purchase flows across **desktop and mobile**, while preparing the store to support customers across **30+ markets**."
+                "title": "04 — Keyword Cannibalisation Reduction",
+                "body": "Maintained page structure and content coverage to reduce keyword cannibalisation across the site."
               }
             ]
           }
