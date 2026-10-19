@@ -186,29 +186,29 @@
             "caption": "Social Media & Content"
           },
           "content": {
-            "overview": "Built the brand’s Instagram presence from the ground up, developing an organic content strategy focused on visual storytelling, audience growth and product discovery.",
+            "overview": "Grew Ertha Home's Instagram organically through content strategy and performance-led iteration, reaching 10K+ total followers and generating 784K+ views in one month.",
             "metrics": [
-              { "value": "6.6K", "label": "Followers in First Month" },
-              { "value": "784K+", "label": "Organic Views" },
-              { "value": "+570%", "label": "Gross Sales" },
-              { "value": "+400%", "label": "Orders" }
+              { "value": "10K+", "label": "Total Followers" },
+              { "value": "784K+", "label": "Views in One Month" },
+              { "value": "+400%", "label": "Orders" },
+              { "value": "+102%", "label": "Conversion Rate" }
             ],
             "contributions": [
               {
-                "title": "01 — Content Strategy",
-                "body": "Developed a consistent content strategy around product storytelling, collection themes and audience response, using **performance insights** to refine formats and topics."
+                "title": "01 - Content Strategy",
+                "body": "Developed an organic content strategy around product storytelling and audience response, using performance data to refine topics, formats and video production."
               },
               {
-                "title": "02 — Organic Audience Growth",
-                "body": "Grew the account to **6.6K followers in the first month** and generated **784K organic views**, while gross sales increased by **570%**, orders by **400%**, and the conversion rate by **102%** vs. the previous **30-day** period."
+                "title": "02 - Organic Audience Growth",
+                "body": "Grew the account to **10K+ total followers**, adding **6.6K followers** and generating **784K+ views** in one month."
               },
               {
-                "title": "03 — Creative Testing",
-                "body": "Produced multiple high-performing Reels through ongoing creative testing, including content reaching **350K+ and 238K+ views**, contributing to **69.2K content interactions** overall."
+                "title": "03 - Commercial Impact",
+                "body": "Content-led growth was accompanied by a **400% increase in orders** and a **102% increase in conversion rate**."
               },
               {
-                "title": "04 — Traffic & Optimisation",
-                "body": "Used **Instagram Insights** and **Meta Business Suite** to analyse audience and content performance, generating **14.5K profile visits** and guiding ongoing content optimisation."
+                "title": "04 - Performance-Led Iteration",
+                "body": "Analysed audience and content-performance data to guide ongoing optimisation of topics, formats and video production."
               }
             ]
           }
