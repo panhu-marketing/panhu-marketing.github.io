@@ -8,7 +8,7 @@
   "site": {
     "language": "en",
     "title": "Pan Hu | Digital Marketing Portfolio",
-    "description": "Melbourne-based digital marketer with hands-on experience across SEO, social media, e-commerce and analytics.",
+    "description": "Melbourne-based digital marketer with hands-on experience in e-commerce, SEO/GEO, social media growth and analytics.",
     "canonical": "https://panhu-marketing.github.io/",
     "ogImage": "assets/ertha-01-home-page.webp",
     "skipLink": "Skip to content",
@@ -39,16 +39,16 @@
   "hero": {
     "_comment": "首屏求职定位。name、roleLocation 和 descriptionLines 分别控制姓名、职位地点和两行简介；avatar 控制右侧人物贴图。",
     "sectionLabel": "Home",
-    "ariaTitle": "Hi, I'm Pan. Digital Marketer · Melbourne",
+    "ariaTitle": "Hi, I'm Pan. E-commerce SEO/GEO Marketer · Melbourne",
     "name": "Hi, I'm Pan.",
-    "roleLocation": "Digital Marketer · Melbourne",
+    "roleLocation": "E-commerce SEO/GEO Marketer · Melbourne",
     "avatar": {
       "path": "assets/hero-pan-avatar-v2-transparent.png",
       "alt": "Cartoon avatar of Pan holding a coffee and laptop"
     },
     "descriptionLines": [
-      "I work across SEO, social media and e-commerce,",
-      "helping brands improve visibility, engagement and digital growth."
+      "I work across e-commerce, SEO/GEO and social media growth,",
+      "using research, analytics and AI workflows to improve organic visibility."
     ],
     "actions": [
       { "label": "View selected work", "target": "projects", "style": "primary" },
@@ -92,10 +92,10 @@
     "sectionLabel": "About",
     "title": "About",
     "paragraphs": [
-      "Digital marketer with hands-on experience across SEO, social media and e-commerce.",
-      "Turning research, content and data into practical marketing actions.",
-      "Focused on search visibility, audience growth and digital performance.",
-      "Bringing a practical, data-informed approach to every project."
+      "Digital marketer with hands-on experience in e-commerce, SEO/GEO and social media growth.",
+      "Built and managed an international Shopify store using technical SEO, keyword research, on-page optimisation and GSC/GA4 analysis.",
+      "Skilled in using AI tools, including Claude and Codex, to support SEO research, optimise content and streamline workflows.",
+      "Focused on measurable organic growth through practical, data-led execution."
     ],
     "cta": { "label": "Contact", "target": "contact" }
   },
@@ -107,23 +107,23 @@
     "items": [
       {
         "number": "01",
-        "title": "SEO & Organic Growth",
-        "description": "Improving search visibility through technical SEO, keyword research and content optimisation."
+        "title": "SEO, GEO & Organic Growth",
+        "description": "Technical SEO, keyword research, on-page optimisation, schema markup and GEO/AEO fundamentals."
       },
       {
         "number": "02",
         "title": "Social Media & Content",
-        "description": "Creating content that supports reach, engagement and audience growth."
+        "description": "Content strategy and short-form production that support reach, engagement and audience growth."
       },
       {
         "number": "03",
         "title": "Website & E-commerce",
-        "description": "Building and managing websites that support brand growth and e-commerce performance."
+        "description": "Shopify, CMS, catalogue management, website building and responsive optimisation."
       },
       {
         "number": "04",
-        "title": "Analytics & Optimisation",
-        "description": "Using performance data to measure results and guide optimisation."
+        "title": "Analytics & AI Workflows",
+        "description": "GA4, Google Search Console, Semrush, Screaming Frog, Python and AI-assisted SEO workflows."
       }
     ]
   },
@@ -346,8 +346,8 @@
     "_comment": "求职向 Contact，保留邮箱和电话，新增 LinkedIn 与 Download CV。",
     "sectionLabel": "Contact",
     "eyebrow": "Contact",
-    "title": "Open to digital marketing opportunities.",
-    "subtitle": "Focused on **SEO, social media and e-commerce.**",
+    "title": "Open to e-commerce SEO/GEO opportunities.",
+    "subtitle": "Focused on **technical SEO, GEO, social media and e-commerce.**",
     "footerNote": "Designed by Pan · 2026 | No user interactions tracked | Privacy-first",
     "links": [
       { "label": "Email", "linkKey": "email", "style": "primary", "icon": "mail" },
