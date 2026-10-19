@@ -65,16 +65,16 @@
         "target": "projects",
         "project": "featured",
         "module": "seo",
-        "image": "assets/ertha-01-home-page.webp",
-        "alt": "Ertha Home responsive storefront supporting product, collection and content landing pages",
+        "image": "assets/ertha-seo-geo-workflow-v2.png",
+        "alt": "Ertha Home SEO and GEO workflow",
         "title": "SEO, GEO & Organic Growth"
       },
       {
         "target": "projects",
         "project": "featured",
         "module": "instagram",
-        "image": "assets/ertha-01-home-page.webp",
-        "alt": "Ertha Home ceramic product imagery for organic social storytelling",
+        "image": "assets/ertha-instagram-content-overview-v04.png",
+        "alt": "Ertha Home Instagram content and performance overview",
         "title": "Social Media & Content"
       },
       {
@@ -145,8 +145,8 @@
           "id": "seo",
           "label": "01 SEO & Organic Growth",
           "image": {
-            "path": "assets/ertha-01-home-page.webp",
-            "alt": "Ertha Home responsive storefront supporting product, collection and content landing pages",
+          "path": "assets/ertha-seo-geo-workflow-v2.png",
+          "alt": "Ertha Home SEO and GEO workflow covering technical audit, keyword research, on-page optimisation and search monitoring",
             "caption": "SEO / GEO & Content"
           },
           "content": {
@@ -181,9 +181,9 @@
           "id": "instagram",
           "label": "02 Social Media & Content",
           "image": {
-            "path": "assets/ertha-01-home-page.webp",
-            "alt": "Ertha Home ceramic product imagery for organic social storytelling",
-            "caption": "Organic Content & Product Discovery"
+          "path": "assets/ertha-instagram-content-overview-v04.png",
+          "alt": "Instagram content overview and performance analytics for Ertha Home",
+          "caption": "Social Media & Content"
           },
           "content": {
             "overview": "Built Ertha Home’s Instagram presence from the ground up, using an organic content strategy to grow the audience, improve product discovery and support e-commerce performance.",
@@ -338,43 +338,6 @@
               }
             ]
           }
-        }
-      ]
-    },
-    "additional": {
-      "title": "Additional Experience",
-      "intro": "Selected projects and analytical work across content growth, innovation and audit support.",
-      "items": [
-        {
-          "title": "TikTok Food & Lifestyle Content Project",
-          "role": "Content Growth & Performance Analysis",
-          "period": "Mar 2026 - Present",
-          "summary": "Grew a content account through a data-informed short-form strategy, using platform trends and audience-performance data to refine topics, formats and video production.",
-          "metrics": [
-            { "value": "10K+", "label": "Followers" },
-            { "value": "5M+", "label": "Views" },
-            { "value": "400K+", "label": "Likes" }
-          ]
-        },
-        {
-          "title": "E-Care Intelligent Connected Vehicle Project",
-          "role": "Project Lead",
-          "period": "Dec 2021 - May 2022",
-          "summary": "Led an intelligent in-vehicle safety monitoring project, coordinating team tasks, milestones and delivery while analysing automotive market data with Python and Excel.",
-          "metrics": [
-            { "value": "2", "label": "Software Copyright Registrations" },
-            { "value": "1", "label": "Design Patent" }
-          ]
-        },
-        {
-          "title": "Wuxing District Audit Bureau",
-          "role": "Audit Assistant Intern",
-          "period": "Jun 2022 - Aug 2022",
-          "summary": "Analysed financial records and cross-checked transactions in Excel, supporting accurate reconciliations and audit readiness.",
-          "metrics": [
-            { "value": "1,000+", "label": "Financial Records Analysed" },
-            { "value": "15+", "label": "Discrepancies Identified" }
-          ]
         }
       ]
     }
