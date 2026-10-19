@@ -159,19 +159,19 @@
             ],
             "contributions": [
               {
-                "title": "01 — Technical SEO",
+                "title": "01 - Technical SEO",
                 "body": "Used **AI-assisted research** and **Google Search Console** to prioritise technical and on-page SEO fixes, increasing search impressions by **133.4%**, organic clicks by **41.5%**, and improving average position from **14.18 to 8.66** in **28 days**."
               },
               {
-                "title": "02 — Homepage & Product Visibility",
+                "title": "02 - Homepage & Product Visibility",
                 "body": "Optimised homepage and product visibility through metadata, content, **Product Schema** and **Breadcrumb Schema**, generating **482 homepage impressions**, an **8.3% CTR**, and **283 product rich-result impressions** in **28 days**."
               },
               {
-                "title": "03 — On-page SEO",
+                "title": "03 - On-page SEO",
                 "body": "Built and managed **174 SEO landing pages** across product, collection and content pages, aligning pages with search intent and reducing keyword cannibalisation."
               },
               {
-                "title": "04 — Monitoring & Iteration",
+                "title": "04 - Monitoring & Iteration",
                 "body": "Monitored performance through **Google Search Console** and used search data to guide ongoing optimisation and content decisions."
               }
             ]
@@ -195,19 +195,19 @@
             ],
             "contributions": [
               {
-                "title": "01 — Content Strategy",
+                "title": "01 - Content Strategy",
                 "body": "Developed an organic content strategy around visual storytelling, product discovery and audience growth, using performance insights to refine content formats and topics."
               },
               {
-                "title": "02 — Organic Audience Growth",
+                "title": "02 - Organic Audience Growth",
                 "body": "Grew the account to **10K+ total followers**, adding **6.6K followers** and generating **784K+ views in one month** through organic content."
               },
               {
-                "title": "03 — E-commerce Impact",
+                "title": "03 - E-commerce Impact",
                 "body": "The organic social strategy supported a **400% increase in orders** and a **102% increase in conversion rate**."
               },
               {
-                "title": "04 — Performance-led Optimisation",
+                "title": "04 - Performance-led Optimisation",
                 "body": "Used audience and content-performance insights to guide ongoing optimisation of topics, formats and product storytelling."
               }
             ]
@@ -230,19 +230,19 @@
             ],
             "contributions": [
               {
-                "title": "01 — Shopify Store Build",
+                "title": "01 - Shopify Store Build",
                 "body": "Built and managed Ertha Home’s **Shopify store**, using **AI workflows** to support ongoing optimisation and maintenance."
               },
               {
-                "title": "02 — SEO Landing Pages",
+                "title": "02 - SEO Landing Pages",
                 "body": "Optimised and maintained **174 SEO landing pages** across product, collection and content pages."
               },
               {
-                "title": "03 — Search-intent Alignment",
+                "title": "03 - Search-intent Alignment",
                 "body": "Aligned landing pages with search intent to strengthen organic visibility across product, collection and content journeys."
               },
               {
-                "title": "04 — Keyword Cannibalisation Reduction",
+                "title": "04 - Keyword Cannibalisation Reduction",
                 "body": "Maintained page structure and content coverage to reduce keyword cannibalisation across the site."
               }
             ]
@@ -275,15 +275,15 @@
             "overview": "Conducted consumer and competitor research to understand category perceptions, identify market opportunities, and define the strategic direction for the rebrand.",
             "contributions": [
               {
-                "title": "01 — Consumer & Keyword Research",
+                "title": "01 - Consumer & Keyword Research",
                 "body": "Used **Python** to analyse **572 consumer reviews**, identifying customer preferences and informing the rebranding direction."
               },
               {
-                "title": "02 — Competitor Benchmarking",
+                "title": "02 - Competitor Benchmarking",
                 "body": "Benchmarked competitors to identify customer preferences and opportunities for differentiation in positioning, visual identity and digital presence."
               },
               {
-                "title": "03 — Brand Positioning",
+                "title": "03 - Brand Positioning",
                 "body": "Refined Gen Z targeting and brand positioning using consumer and competitor insights, with a projected **35% improvement in targeting effectiveness**."
               }
             ]
@@ -300,15 +300,15 @@
             "overview": "Led the visual and packaging direction for the rebrand, translating brand positioning into clear creative decisions for younger consumers and different usage scenarios.",
             "contributions": [
               {
-                "title": "01 — Brand Identity Direction",
+                "title": "01 - Brand Identity Direction",
                 "body": "Defined the brand’s **core visual direction and identity principles**, establishing how the brand should look and feel across packaging, content, and offline touchpoints."
               },
               {
-                "title": "02 — IP Concept & Art Direction",
+                "title": "02 - IP Concept & Art Direction",
                 "body": "Defined the **IP concept and creative direction**, combining traditional Chinese opera-inspired elements with bayberry cues to shape a distinctive character for Gen Z audiences."
               },
               {
-                "title": "03 — Packaging Design",
+                "title": "03 - Packaging Design",
                 "body": "Defined a **scenario-based packaging strategy** for outdoor, gifting, and office/study use, selecting formats and materials based on different consumer needs."
               }
             ]
@@ -325,19 +325,56 @@
             "overview": "Developed a pop-up activation strategy to bring the rebranded identity into physical experiences and strengthen engagement with younger consumers.",
             "contributions": [
               {
-                "title": "01 — Pop-up Experience",
-                "body": "Designed pop-up events and digital marketing campaigns to drive engagement, with a projected **15–20% improvement in conversion rates**."
+                "title": "01 - Pop-up Experience",
+                "body": "Designed pop-up events and digital marketing campaigns to drive engagement, with a projected **15-20% improvement in conversion rates**."
               },
               {
-                "title": "02 — IP Merchandise",
+                "title": "02 - IP Merchandise",
                 "body": "Designed merchandise concepts to extend the rebranded identity beyond beverages and into lifestyle touchpoints."
               },
               {
-                "title": "03 — Online-to-Offline Engagement",
+                "title": "03 - Online-to-Offline Engagement",
                 "body": "Designed an online-to-offline engagement model using QR codes, points-based rewards, check-ins and social sharing."
               }
             ]
           }
+        }
+      ]
+    },
+    "additional": {
+      "title": "Additional Experience",
+      "intro": "Selected projects and analytical work across content growth, innovation and audit support.",
+      "items": [
+        {
+          "title": "TikTok Food & Lifestyle Content Project",
+          "role": "Content Growth & Performance Analysis",
+          "period": "Mar 2026 - Present",
+          "summary": "Grew a content account through a data-informed short-form strategy, using platform trends and audience-performance data to refine topics, formats and video production.",
+          "metrics": [
+            { "value": "10K+", "label": "Followers" },
+            { "value": "5M+", "label": "Views" },
+            { "value": "400K+", "label": "Likes" }
+          ]
+        },
+        {
+          "title": "E-Care Intelligent Connected Vehicle Project",
+          "role": "Project Lead",
+          "period": "Dec 2021 - May 2022",
+          "summary": "Led an intelligent in-vehicle safety monitoring project, coordinating team tasks, milestones and delivery while analysing automotive market data with Python and Excel.",
+          "metrics": [
+            { "value": "2", "label": "Software Copyright Registrations" },
+            { "value": "1", "label": "Design Patent" }
+          ]
+        },
+        {
+          "title": "Wuxing District Audit Bureau",
+          "role": "Audit Assistant Intern",
+          "period": "Jun 2022 - Aug 2022",
+          "summary": "Analysed financial records and cross-checked transactions in Excel, supporting accurate reconciliations and audit readiness.",
+          "metrics": [
+            { "value": "1,000+", "label": "Financial Records Analysed" },
+            { "value": "15+", "label": "Discrepancies Identified" }
+          ]
         }
       ]
     }

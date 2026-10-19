@@ -357,6 +357,44 @@ function renderOtherProjectPanel(tab, index) {
     </div>`;
 }
 
+function renderAdditionalExperience(additional) {
+  if (!additional || !Array.isArray(additional.items) || !additional.items.length) return "";
+
+  const items = additional.items
+    .map(
+      (item) => `
+        <article class="additional-experience-item">
+          <div class="additional-experience-meta">
+            <h3>${escapeHtml(item.title)}</h3>
+            <p class="additional-experience-role">${escapeHtml(item.role)}</p>
+            <p class="additional-experience-period">${escapeHtml(item.period)}</p>
+          </div>
+          <p class="additional-experience-summary">${escapeHtml(item.summary)}</p>
+          <div class="additional-experience-metrics" aria-label="${escapeHtml(item.title)} metrics">
+            ${item.metrics
+              .map(
+                (metric) => `
+                  <div>
+                    <strong>${escapeHtml(metric.value)}</strong>
+                    <span>${escapeHtml(metric.label)}</span>
+                  </div>`
+              )
+              .join("")}
+          </div>
+        </article>`
+    )
+    .join("");
+
+  return `
+    <section class="additional-experience" aria-labelledby="additional-experience-title">
+      <div class="additional-experience-heading">
+        <h3 id="additional-experience-title">${escapeHtml(additional.title)}</h3>
+        <p>${escapeHtml(additional.intro)}</p>
+      </div>
+      <div class="additional-experience-list">${items}</div>
+    </section>`;
+}
+
 function renderProjects(content) {
   const featured = content.projects.featured;
   const actions = featured.actions.map((action) => renderButton(content, action)).join("");
@@ -367,6 +405,7 @@ function renderProjects(content) {
   const otherTabs = renderProjectTabs(other.tabs, "top", "mei");
   const otherPanels = other.tabs.map(renderOtherProjectPanel).join("");
   const otherProgress = renderProjectProgress(other.tabs, "mei", "MEI PI QI project module progress");
+  const additionalExperience = renderAdditionalExperience(content.projects.additional);
 
   return `
     <section class="projects" id="projects" data-section="${escapeHtml(content.projects.sectionLabel)}">
@@ -421,6 +460,7 @@ function renderProjects(content) {
             ${otherProgress}
           </div>
         </article>
+        ${additionalExperience}
       </div>
     </section>`;
 }

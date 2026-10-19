@@ -1148,6 +1148,101 @@ button {
   display: none;
 }
 
+.additional-experience {
+  margin-top: clamp(46px, 7vw, 76px);
+}
+
+.additional-experience-heading {
+  max-width: 680px;
+}
+
+.additional-experience-heading h3 {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(1.9rem, 3.2vw, 3rem);
+  line-height: 1.05;
+}
+
+.additional-experience-heading p {
+  margin: 12px 0 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.additional-experience-list {
+  display: grid;
+  gap: clamp(28px, 4vw, 46px);
+  margin-top: clamp(26px, 4vw, 40px);
+}
+
+.additional-experience-item {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.78fr) minmax(250px, 1fr) minmax(190px, 0.65fr);
+  align-items: start;
+  gap: clamp(18px, 3vw, 38px);
+}
+
+.additional-experience-item h3,
+.additional-experience-item p {
+  margin: 0;
+}
+
+.additional-experience-item h3 {
+  color: var(--text);
+  font-size: clamp(1.1rem, 1.8vw, 1.38rem);
+  line-height: 1.24;
+}
+
+.additional-experience-role {
+  margin-top: 7px !important;
+  color: #95cfff;
+  font-size: 0.94rem;
+  font-weight: 700;
+}
+
+.additional-experience-period {
+  margin-top: 5px !important;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.additional-experience-summary {
+  color: var(--soft);
+  font-size: 0.98rem;
+  line-height: 1.65;
+}
+
+.additional-experience-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+}
+
+.additional-experience-metrics div {
+  min-width: 78px;
+}
+
+.additional-experience-metrics strong,
+.additional-experience-metrics span {
+  display: block;
+}
+
+.additional-experience-metrics strong {
+  color: #d8a6ff;
+  font-family: "Segoe UI", "Noto Sans SC", system-ui, sans-serif;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.additional-experience-metrics span {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
 .mei-case-main {
   min-height: clamp(360px, 36vw, 480px);
 }
@@ -1375,8 +1470,13 @@ details[open] summary {
   .case-tab-panel,
   .case-panel-main,
   .other-work,
-  .other-work-card {
+  .other-work-card,
+  .additional-experience-item {
     grid-template-columns: 1fr;
+  }
+
+  .additional-experience-item {
+    gap: 14px;
   }
 
   .featured-intro {
