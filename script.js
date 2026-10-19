@@ -271,7 +271,7 @@ function renderProjectPanel(tab, index = 0, namespace = "") {
             .map(
               (metric) => `
                 <div class="metric-card">
-                  <strong>${escapeHtml(metric.value)}</strong>
+                  <strong${metric.value.length > 9 ? ' class="metric-value--compact"' : ""}>${escapeHtml(metric.value)}</strong>
                   <span>${escapeHtml(metric.label)}</span>
                 </div>`
             )

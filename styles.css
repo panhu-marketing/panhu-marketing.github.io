@@ -1063,6 +1063,12 @@ button {
   line-height: 1;
 }
 
+.metric-card strong.metric-value--compact {
+  font-size: clamp(1.38rem, 2.25vw, 1.9rem);
+  letter-spacing: -0.035em;
+  white-space: nowrap;
+}
+
 .metric-card span {
   margin-top: 10px;
   color: #c7cfda;
