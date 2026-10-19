@@ -65,16 +65,16 @@
         "target": "projects",
         "project": "featured",
         "module": "seo",
-        "image": "assets/ertha-seo-geo-workflow-v2.png",
-        "alt": "Ertha Home SEO and GEO workflow",
+        "image": "assets/ertha-01-home-page.webp",
+        "alt": "Ertha Home responsive storefront supporting product, collection and content landing pages",
         "title": "SEO & Organic Growth"
       },
       {
         "target": "projects",
         "project": "featured",
         "module": "instagram",
-        "image": "assets/ertha-instagram-content-overview-v04.png",
-        "alt": "Ertha Home Instagram content and performance overview",
+        "image": "assets/ertha-01-home-page.webp",
+        "alt": "Ertha Home ceramic product imagery for organic social storytelling",
         "title": "Social Media & Content"
       },
       {
@@ -145,8 +145,8 @@
           "id": "seo",
           "label": "01 SEO & Organic Growth",
           "image": {
-            "path": "assets/ertha-seo-geo-workflow-v2.png",
-            "alt": "Ertha Home SEO and GEO workflow covering technical audit, keyword research, on-page optimisation and search monitoring",
+            "path": "assets/ertha-01-home-page.webp",
+            "alt": "Ertha Home responsive storefront supporting product, collection and content landing pages",
             "caption": "SEO / GEO & Content"
           },
           "content": {
@@ -181,9 +181,9 @@
           "id": "instagram",
           "label": "02 Social Media & Content",
           "image": {
-            "path": "assets/ertha-instagram-content-overview-v04.png",
-            "alt": "Instagram content overview and performance analytics for Ertha Home",
-            "caption": "Social Media & Content"
+            "path": "assets/ertha-01-home-page.webp",
+            "alt": "Ertha Home ceramic product imagery for organic social storytelling",
+            "caption": "Organic Content & Product Discovery"
           },
           "content": {
             "overview": "Built Ertha Home’s Instagram presence from the ground up, using an organic content strategy to grow the audience, improve product discovery and support e-commerce performance.",
